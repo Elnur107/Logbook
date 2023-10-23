@@ -1,0 +1,13 @@
+C:\Users\ekber\OneDrive\Masaüstü\Logbook-master\Logbook\bin\Debug\Logbook.exe.config
+C:\Users\ekber\OneDrive\Masaüstü\Logbook-master\Logbook\bin\Debug\Logbook.exe
+C:\Users\ekber\OneDrive\Masaüstü\Logbook-master\Logbook\bin\Debug\Logbook.pdb
+C:\Users\ekber\OneDrive\Masaüstü\Logbook-master\Logbook\bin\Debug\Guna.UI2.dll
+C:\Users\ekber\OneDrive\Masaüstü\Logbook-master\Logbook\obj\Debug\Logbook.csproj.AssemblyReference.cache
+C:\Users\ekber\OneDrive\Masaüstü\Logbook-master\Logbook\obj\Debug\Logbook.Form1.resources
+C:\Users\ekber\OneDrive\Masaüstü\Logbook-master\Logbook\obj\Debug\Logbook.Properties.Resources.resources
+C:\Users\ekber\OneDrive\Masaüstü\Logbook-master\Logbook\obj\Debug\Logbook.StudentUserControl.resources
+C:\Users\ekber\OneDrive\Masaüstü\Logbook-master\Logbook\obj\Debug\Logbook.csproj.GenerateResource.cache
+C:\Users\ekber\OneDrive\Masaüstü\Logbook-master\Logbook\obj\Debug\Logbook.csproj.CoreCompileInputs.cache
+C:\Users\ekber\OneDrive\Masaüstü\Logbook-master\Logbook\obj\Debug\Logbook.csproj.CopyComplete
+C:\Users\ekber\OneDrive\Masaüstü\Logbook-master\Logbook\obj\Debug\Logbook.exe
+C:\Users\ekber\OneDrive\Masaüstü\Logbook-master\Logbook\obj\Debug\Logbook.pdb
